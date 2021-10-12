@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Erik!
 #### 🔗 Visit me at https://duxstad.com
-#### 📫 Contact me at erik@duxstad.com
+#### 📫 Contact me at eduxstad@gmail.com
 <!--
 **eduxstad/eduxstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
